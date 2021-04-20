@@ -4,7 +4,7 @@ As a student, we often face a situation whereby there are tonnes of survey forms
 
 Selenium is a Python framework which provides libraries for automation tasks, basically a bot :D. To code out the automated form filling program, you need to have selenium installed. Don't worry, I will go one by one while keeping it precise and concise, as what we have learn during English class this semester. >_< <br>
 
-The following will work in Windows<br>
+The following will work in Windows:<br>
 1. Open command prompt, run pip install selenium (Make sure you have pip installed first)<br>
 2. Go to [ChromeDriver - WebDriver website](https://chromedriver.chromium.org/downloads) and download ChromeDriver according to your Chrome version. To check you Chrome version, click the 3 dots below the 'X' button at top right corner then 'Help' then 'About Google Chrome'.<br>
 3. Make up a form. [Here](https://docs.google.com/forms/d/e/1FAIpQLScPnhXBC-LwIL-4RvBlA17jkA19MehvLrT_MNv1Xb-My-dIpA/viewform) is the simple form I have made.<br>
